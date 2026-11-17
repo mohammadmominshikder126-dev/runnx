@@ -1,0 +1,6 @@
+{
+  "name": "Runx.bd",
+  "description": "Runx.bd (runxbd.com) — Footwear e-commerce store with online payment gateways, customer checkout, real-time order notifications, and an admin order management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
